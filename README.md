@@ -10,7 +10,7 @@ This project is a collection of Bash scripts designed to audit and analyze a Lin
 - Package verification
 - Directory audit
 - Logic Analyzer
-- Open Source Manifesto 
+- Open Source Manifesto Generator
 
 ## Requirements
 - Linux (Tested on Linux Mint 22)
