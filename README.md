@@ -3,7 +3,7 @@
 Author: Samarth
 
 ## Project Description
-This project is a collection of Bash scripts designed to audit and analyze a Linux system. It provides information about system configuration, installed software, directories, network status, and running processes.
+This project is a collection of Bash scripts designed to audit and analyze a Linux system. It provides information about system configuration, installed software, directories, logic analyzer, and manifesto generation.
 
 ## Features
 - System information extraction
